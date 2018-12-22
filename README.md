@@ -5,7 +5,7 @@ JavaMail API Sending Email With Attachment,  JavaMail ile Resim Gönderme Androi
 
 
 
-![](IMAGES/Ss1.png)
-![](IMAGES/Ss2.png)
-![](IMAGES/Send2.png)
+![](JavaMail/IMAGES/Ss1.png)
+![](JavaMail/IMAGES/Ss2.png)
+![](JavaMail/IMAGES/Send2.png)
 
