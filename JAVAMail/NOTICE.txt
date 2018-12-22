@@ -1,0 +1,8 @@
+MainActivity'de 
+72. - 73. Satýrlarý izin açtýðýnýz hesap bilgilerini girin.
+121. Satýrda mesajýn gideceði hesabý yazýn
+//
+
+in MainActivity
+72. - 73. Enter the account information for which you have opened rows.
+Type the account to which the message will go on line 121.
